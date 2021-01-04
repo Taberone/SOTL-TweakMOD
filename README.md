@@ -1,2 +1,1 @@
-# SOTL-TweakMOD
-Personal tweaks for Spec Ops - The Line
+#TABERONE'S PERSONAL UNBALANCING - SPEC OPS EDITION
